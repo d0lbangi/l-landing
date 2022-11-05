@@ -1,3 +1,9 @@
--협업용 메모장입니다. 
+[협업용 메모장입니다.]
 
-컴포넌트 단위별 폴더 구조 : page >> template >> organism >> molecule >> atom
+-작업시 브랜치 분리해주세요.
+
+-컴포넌트 단위별 폴더 구조 : page >> template >> organism >> molecule >> atom
+
+-Todo : 
+1. color palette 추가 & 수정 (색상 이름 정하기)
+2. 
